@@ -1,0 +1,46 @@
+*{
+    font-family: tahoma;
+}
+
+.artikel{
+    background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(240,45,253,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.tanggal {
+    
+    color: #d60303;
+}
+
+h3{
+    font-size: 12px;
+}
+
+.credit{
+    font-weight: bold;
+}
+
+.penulis{
+    font-weight: bold;
+    color:#d60303;
+}
+
+p{
+    color:brown;
+}
+
+
+
+span{
+    color:blue
+}
+
+#artikel-2{
+    color:aqua
+}
+
+h1{
+    background: linear-gradient(90deg, rgb(62, 242, 245) 0%, rgb(141, 14, 150) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
